@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "487514421678",
+    "firebase_url": "https://tools-bb7c0.firebaseio.com",
+    "project_id": "tools-bb7c0",
+    "storage_bucket": "tools-bb7c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487514421678:android:9a092be46dc5d816a4703f",
+        "android_client_info": {
+          "package_name": "com.shtokal.tools"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487514421678-38nsnrrdrdjlnoqhf7j90sf0jvsoov0v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shtokal.tools",
+            "certificate_hash": "3e46b92cf6d0be8bb05e548b05a61d0c185462e8"
+          }
+        },
+        {
+          "client_id": "487514421678-7fd668bvlvqa797tae85n5rhdh3recia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUQrCwLg6e4jclY5r8WV9BxSzwZgt5YH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487514421678-7fd668bvlvqa797tae85n5rhdh3recia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#479A4B</color>
+    <color name="colorPrimaryDark">#009688</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="colorAccent2">#FBC02D</color>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="dot_dark">#fafafa</color>
+    <color name="dot_light">#FBC02D</color>
+
+    <color name="colorRulerViewScale">#070705</color>
+    <color name="colorRulerViewPointer">#070705</color>
+    <color name="colorRulerViewLabel">#070705</color>
+    <color name="colorRulerViewBackground">#FAC331</color>
+    <color name="colorLightBG">#f2f2f2</color>
+    <color name="mygreen">#00ce44</color>
+    <color name="inside_progress2">#35824e</color>
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "805365614850",
+    "firebase_url": "https://tools-70a82.firebaseio.com",
+    "project_id": "tools-70a82",
+    "storage_bucket": "tools-70a82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805365614850:android:9aa921b8e8836205149a1b",
+        "android_client_info": {
+          "package_name": "com.shtokal.tools"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805365614850-dorknt4k9ni01mnua00sf5hjnfik74ed.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1Dmpdiu-ZYq_KSUkvhPCUxMhToyjhXnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805365614850-dorknt4k9ni01mnua00sf5hjnfik74ed.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

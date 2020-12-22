@@ -1,0 +1,17 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <SwitchPreferenceCompat
+                    android:key="vibrate"
+                    android:title="@string/vibrate"
+                    android:summary="@string/vibrateSummary"
+                    android:defaultValue="true" />
+    <SwitchPreferenceCompat
+        android:key="keep_wake"
+        android:title="@string/keepWake"
+        android:summary="@string/keepWakeSummary"
+        android:defaultValue="true" />
+
+
+        </PreferenceScreen>
+
+
